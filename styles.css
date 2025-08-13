@@ -1,0 +1,93 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.home{
+    color: #989D9C;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: normal;
+    margin-right: 23px ;
+    cursor: pointer;
+    
+}
+.roxo{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: normal;
+    width: 130px;
+    height: 41px;
+    border-radius: 50px;
+    background: #665AE1;
+    border: none;
+    cursor: pointer;
+}
+
+img{
+    margin-left: 125px;
+    width: 568px;
+    height: 500px;
+    display: inline-block;
+    
+        
+}
+
+.escrita{
+   display: inline-block;
+   margin-left:86px ;
+   
+}
+
+header{
+    margin:44px 0px 144px 76px ;
+}
+
+h1{
+    color: #515151;
+    font-size: 100px;
+    font-weight: 900;
+    line-height: normal;
+    
+   
+    
+}
+
+h2{
+    color: #515151;
+    font-size: 58px;
+    font-weight: 500;
+    line-height: normal;
+}
+
+p{
+    color: #848484;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: normal;
+    width: 514px;
+    height: 87px;
+    margin-top: 32px;
+    
+}
+
+.verde{
+    color: #000;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: normal;
+    width: 147px;
+    height: 26.022px;
+    flex-shrink: 0;
+    border-radius: 20.5px;
+    background: #ADFF00;
+    width: 239px;
+    height: 64px;
+    border: none;
+    margin-top:65px ;
+    cursor: pointer;
+
+}
